@@ -1,6 +1,6 @@
 {
-    "name": "wglvhalltest/sign",
-    "description": "test",
+    "name": "wglvhallcomponent/sign",
+    "description": "test component",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +8,11 @@
             "email": "1169118419@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OAuth\\": "src/"
+        }
+    }
+
 }
