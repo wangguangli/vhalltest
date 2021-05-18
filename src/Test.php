@@ -1,6 +1,6 @@
 <?php
 
-namespace MysqlDict;
+namespace OAuth;
 
 class Test{
 
