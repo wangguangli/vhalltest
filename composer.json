@@ -1,6 +1,7 @@
 {
     "name": "wglvhalltest/sign",
-    "description": "test com",
+    "description": "test",
+    "license": "MIT",
     "authors": [
         {
             "name": "wangguangli",
