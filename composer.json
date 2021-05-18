@@ -1,0 +1,22 @@
+{
+    "name": "vhall/sign",
+    "description": "test component",
+    "require": {
+        "predis/predis": "2.0.x-dev"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "authors": [
+        {
+            "name": "wangguangli",
+            "email": "1169118419@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "MysqlDict\\": "src/"
+        }
+    }
+}
