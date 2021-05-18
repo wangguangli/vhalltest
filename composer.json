@@ -1,5 +1,5 @@
 {
-    "name": "vhall/sign",
+    "name": "wglvhalltest/sign",
     "description": "test component",
     "require": {
         "predis/predis": "2.0.x-dev"
